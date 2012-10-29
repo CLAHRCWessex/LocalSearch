@@ -1,0 +1,7 @@
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\LocalSearch\bin\Debug\LocalSearch.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\LocalSearch\bin\Debug\LocalSearch.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\LocalSearch\obj\Debug\LocalSearch.csprojResolveAssemblyReference.cache
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\LocalSearch\obj\Debug\LocalSearch.LocalSearchConfigPanel.resources
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\LocalSearch\obj\Debug\LocalSearch.csproj.GenerateResource.Cache
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\LocalSearch\obj\Debug\LocalSearch.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\LocalSearch\obj\Debug\LocalSearch.pdb
