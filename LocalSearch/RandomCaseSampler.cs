@@ -25,6 +25,7 @@ namespace LocalSearch
         {
             this.rnd = new Random(seed);
 
+
         }
 
 
