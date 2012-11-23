@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalSearch", "LocalSearch\LocalSearch.csproj", "{77E04625-28DE-4FCA-9CFA-5C277DFF6C79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{BBFD6FB1-987F-4AD7-9379-67DB331433CD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLocalSearch", "TestLocalSearch\TestLocalSearch.csproj", "{D655332D-EA6D-45C1-B329-A4D75F3B88BC}"
 EndProject
 Global
@@ -17,10 +15,6 @@ Global
 		{77E04625-28DE-4FCA-9CFA-5C277DFF6C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77E04625-28DE-4FCA-9CFA-5C277DFF6C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77E04625-28DE-4FCA-9CFA-5C277DFF6C79}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BBFD6FB1-987F-4AD7-9379-67DB331433CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BBFD6FB1-987F-4AD7-9379-67DB331433CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BBFD6FB1-987F-4AD7-9379-67DB331433CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BBFD6FB1-987F-4AD7-9379-67DB331433CD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D655332D-EA6D-45C1-B329-A4D75F3B88BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D655332D-EA6D-45C1-B329-A4D75F3B88BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D655332D-EA6D-45C1-B329-A4D75F3B88BC}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -1,0 +1,8 @@
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\TestLocalSearch\obj\Debug\TestLocalSearch.csprojResolveAssemblyReference.cache
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\TestLocalSearch\bin\Debug\TestLocalSearch.exe.config
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\TestLocalSearch\bin\Debug\TestLocalSearch.exe
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\TestLocalSearch\bin\Debug\TestLocalSearch.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\TestLocalSearch\bin\Debug\LocalSearch.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\TestLocalSearch\bin\Debug\LocalSearch.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\TestLocalSearch\obj\Debug\TestLocalSearch.exe
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\TestLocalSearch\obj\Debug\TestLocalSearch.pdb
