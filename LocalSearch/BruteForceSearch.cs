@@ -61,8 +61,8 @@ namespace LocalSearch
             foreach (var permutation in results)
             {
                 //add start location to the start and end or list
-                permutation.Insert(0, 1);
-                permutation.Add(1);
+                permutation.Insert(0, 0);
+                permutation.Add(0);
 
                 var cost = this.objective.Value(permutation);
 
