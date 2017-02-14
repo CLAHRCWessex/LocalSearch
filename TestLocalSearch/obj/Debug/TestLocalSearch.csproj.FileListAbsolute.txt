@@ -6,3 +6,11 @@
 \\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\TestLocalSearch\bin\Debug\LocalSearch.pdb
 \\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\TestLocalSearch\obj\Debug\TestLocalSearch.exe
 \\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\TestLocalSearch\obj\Debug\TestLocalSearch.pdb
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\TestLocalSearch\bin\Debug\TestLocalSearch.exe.config
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\TestLocalSearch\obj\Debug\TestLocalSearch.exe
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\TestLocalSearch\obj\Debug\TestLocalSearch.pdb
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\TestLocalSearch\bin\Debug\TestLocalSearch.exe
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\TestLocalSearch\bin\Debug\TestLocalSearch.pdb
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\TestLocalSearch\bin\Debug\LocalSearch.dll
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\TestLocalSearch\bin\Debug\LocalSearch.pdb
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\TestLocalSearch\obj\Debug\TestLocalSearch.csprojResolveAssemblyReference.cache

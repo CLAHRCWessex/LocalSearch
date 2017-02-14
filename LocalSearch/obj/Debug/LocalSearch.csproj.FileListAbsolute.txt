@@ -5,3 +5,10 @@
 \\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\LocalSearch\obj\Debug\LocalSearch.csproj.GenerateResource.Cache
 \\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\LocalSearch\obj\Debug\LocalSearch.dll
 \\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\LocalSearch\LocalSearch\obj\Debug\LocalSearch.pdb
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\LocalSearch\bin\Debug\LocalSearch.dll
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\LocalSearch\bin\Debug\LocalSearch.pdb
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\LocalSearch\obj\Debug\LocalSearch.csprojResolveAssemblyReference.cache
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\LocalSearch\obj\Debug\LocalSearch.LocalSearchConfigPanel.resources
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\LocalSearch\obj\Debug\LocalSearch.csproj.GenerateResource.Cache
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\LocalSearch\obj\Debug\LocalSearch.dll
+\\filestore.soton.ac.uk\users\tm3y13\mydocuments\Visual Studio 2013\Projects\LocalSearch\LocalSearch\obj\Debug\LocalSearch.pdb
